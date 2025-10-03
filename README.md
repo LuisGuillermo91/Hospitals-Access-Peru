@@ -1,5 +1,5 @@
 # Hospitals-Access-Peru
-This is a project to evaluate accesability to operational public hospitals in every district of Peru.
+This is a project to evaluate accesability to operational public hospitals in every district of Peru elaborated by Group 10 of the Intensive Python Course of Diplomado PUCP 2025.
 
 ## Outputs
 
